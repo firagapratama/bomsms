@@ -21,7 +21,7 @@ $ovo[] = 'User-Agent: okhttp/3.11.0';
 // EKSE
 echo "===================\n";
 echo "BOM SMS TIXID + OVO\n";
-echo "   By geeee";
+echo "   By geeee\n";
 echo "===================\n";
 echo "Nomer HP Korban: ";
 $number = trim(fgets(STDIN));
